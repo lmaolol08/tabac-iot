@@ -1,0 +1,10 @@
+iot\App.class
+iot\simulation\SimulationMain$Result.class
+iot\trust\TrustManager.class
+iot\utils\ResultLogger.class
+iot\accesscontrol\AbacPolicy.class
+iot\accesscontrol\AccessPolicy.class
+iot\devices\Device.class
+iot\simulation\SimulationMain.class
+iot\utils\LoggerUtil.class
+iot\accesscontrol\TabacPolicy.class
